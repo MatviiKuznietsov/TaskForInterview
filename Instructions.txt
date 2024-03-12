@@ -1,0 +1,12 @@
+1. open in browser "https://github.com/MatviiKuznietsov/TaskForInterview"
+2. clone with git "https://github.com/MatviiKuznietsov/TaskForInterview.git"
+3. go to folder "src/test/java/uiTests"
+4. open file "MovieTest.java"
+5. run test "Check movie Back to the future on IMBD"
+
+OR
+
+1. open in browser "https://github.com/MatviiKuznietsov/TaskForInterview"
+2. clone with git "https://github.com/MatviiKuznietsov/TaskForInterview.git"
+3. go to folder "src/test/resources"
+4. run file "testng_ui.xml"
